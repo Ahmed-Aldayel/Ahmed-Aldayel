@@ -1,5 +1,4 @@
 ### Hi, I'am Ahmed Aldayel👋:octocat:
-![image](dino.gif)
 ![image](https://github.com/Ahmed-Aldayel/saadeghi/blob/master/dino.gif)
 
 - 🔭 I’m Comuter Student at KSU 
