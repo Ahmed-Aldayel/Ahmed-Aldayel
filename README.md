@@ -3,4 +3,4 @@
 
 - 🔭 I’m Comuter Student at KSU 
 - 🌱 I’m currently learning Data visulizaton
-- ⚡ Fun fact: I:heart::coffee: 
+- ⚡ Fun fact: I :heart: :coffee: 
