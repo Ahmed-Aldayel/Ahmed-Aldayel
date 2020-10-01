@@ -2,6 +2,6 @@
 ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
 
 - 🔭 I’m Computer information Systems Student at KSU 
-- 🌱 I’m currently learning Data visulizaton
+- 🌱 I’m currently learning Data visualization
 - ⚡ Fun fact: I :heart: :coffee: 
 - :round_pushpin: Saudi Arabia :green_heart:
