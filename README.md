@@ -4,4 +4,4 @@
 - 🔭 I’m Computer information Systems Student at KSU 
 - 🌱 I’m currently learning Data visulizaton
 - ⚡ Fun fact: I :heart: :coffee: 
-- :round_pushpin: Saudi Arabia:green_heart:
+- :round_pushpin: Saudi Arabia:green_heart::green_heart:
