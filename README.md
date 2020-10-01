@@ -8,4 +8,3 @@
 - ⚡ Fun fact: I:heart::coffee: 
 -->
 ![image](dino.gif)
-![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
