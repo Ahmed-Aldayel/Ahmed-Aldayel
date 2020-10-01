@@ -1,5 +1,5 @@
 ### Hi, I'am Ahmed Aldayel👋:octocat:
-![image](https://github.com/Ahmed-Aldayel/Ahmed-Aldayel/blob/master/dino.gif)
+![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
 
 - 🔭 I’m Computer information Systems Student at KSU 
 - 🌱 I’m currently learning Data visulizaton
