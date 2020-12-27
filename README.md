@@ -1,6 +1,6 @@
 ### Hi, I'am Ahmed Aldayel👋:octocat:
 
- <img width="80%" src="https://user-images.githubusercontent.com/381179/87087365-f38b4280-c200-11ea-880c-90f2810f79d1.gif" />
+ <img width="100%" src="https://user-images.githubusercontent.com/381179/87087365-f38b4280-c200-11ea-880c-90f2810f79d1.gif" />
 
 - 🔭 I’m Computer information Systems Student at KSU 
 - 🌱 I’m currently learning Data visualization
